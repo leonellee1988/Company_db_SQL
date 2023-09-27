@@ -1,3 +1,5 @@
+# Company_db_SQL
+
 Dear coder.
 
 Hope you can enjoy the Jupyter Notebook about queries in SQL.
